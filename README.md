@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anbarasi-Srinivasan
+- 👋 Hi, I’m Anbarasi-Srinivasan
 - 👀 I’m interested in Web Development and UI/UX designing
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Top Companies by Internship
